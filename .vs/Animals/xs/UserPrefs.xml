@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{630F9394-684D-4CB5-A821-6FEB0A64E6B7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Animals/Cat.cs">
+    <Files>
+      <File FileName="Animals/Program.cs" Line="12" Column="1" />
+      <File FileName="Animals/Animal.cs" Line="10" Column="33" />
+      <File FileName="Animals/Dog.cs" Line="10" Column="6" />
+      <File FileName="Animals/Cat.cs" Line="4" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Animals" expanded="True">
+            <Node name="Animals" expanded="True">
+              <Node name="Cat.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Animals FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
